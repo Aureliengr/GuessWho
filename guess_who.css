@@ -1,0 +1,82 @@
+body {
+
+	background-image: url("images/Back_0000_Bg.jpg");
+	background-attachment: fixed;
+	margin: 50px;
+}
+
+section, header {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: center;
+}
+
+header {
+	margin-top: 80px;
+}
+
+header h1 {
+	margin: 0px;
+}
+
+.panel {
+	display: inline-block;
+  	position: relative;
+  	background-color: rgb(248, 232, 176);
+  	margin : 50px;
+  	margin-bottom: 0px;
+  	border: 10px solid rgb(218, 176, 123);
+  	border-radius: 30px;
+  	width: 450px;
+  	height: 600px;
+}
+
+.panel nav {
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	width: 400px;
+	height: 600px;
+}
+
+.panel nav ul {
+	list-style-type: none;
+	padding: 0px;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	width: 400px;
+	height: 480px;
+}
+
+.panel nav li {
+	display: inline-block;
+	text-align: center;
+	background-color: rgb(228, 193, 138);
+	margin: 15px;
+	border: 5px solid rgb(255, 246, 216);
+	border-radius: 15px;
+	width: 300px;
+	height: 80px;
+}
+
+.panel nav li:hover {
+	background-color: rgb(180, 180, 180);
+}
+
+.panel nav a {
+	display: inline-block;
+	text-decoration: none;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	color: white;
+}
+
+.panel nav h3 {
+	display: inline-block;
+	margin: 0px;
+}
+
+

@@ -1,0 +1,55 @@
+footer {
+	text-align: center;
+	margin-top: 0px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-bottom: 80px;
+}
+
+footer nav {
+	display: inline-block;
+	text-align: left;
+}
+
+footer nav ul {
+	list-style-type: none;
+	padding: 0px;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+footer nav li {
+	display: inline-block;
+	margin-right: 20px;
+	height: 50px;
+	width: 50px;
+	border-radius: 30px;
+	border: 3px solid white;
+}
+
+footer nav a {
+	text-decoration: none;
+	color: white;
+}
+
+footer nav i {
+	text-align: center;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+p {
+	color: white;
+}
+
+.fb {
+	background-color: rgb(86, 125, 211);
+}
+
+.tw {
+	background-color: rgb(69, 209, 255);
+}
+
+.go {
+	background-color: rgb(235, 91, 76);
+}
